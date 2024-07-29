@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hyder\\Desktop\\Contact Management System\\CMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D41E376-CF9B-4E43-8FF7-21E97EB55C5E}|CMS\\CMS.vcxproj|C:\\Users\\hyder\\Desktop\\Contact Management System\\CMS\\CMS\\CMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D41E376-CF9B-4E43-8FF7-21E97EB55C5E}|CMS\\CMS.vcxproj|solutionrelative:CMS\\CMS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMS.cpp",
+              "DocumentMoniker": "C:\\Users\\hyder\\Desktop\\Contact Management System\\CMS\\CMS\\CMS.cpp",
+              "RelativeDocumentMoniker": "CMS\\CMS.cpp",
+              "ToolTip": "C:\\Users\\hyder\\Desktop\\Contact Management System\\CMS\\CMS\\CMS.cpp",
+              "RelativeToolTip": "CMS\\CMS.cpp",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAwwPMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-25T10:01:44.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
